@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Samuel Desta  
+🚀 **Software Engineer | AI Enthusiast**  
+🎓 Computer Science senior at VCU (Specializing in Software Engineering & AI)  
 
-<!--
-**destasw/destasw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Skills  
+- 💻 Programming: Python, JavaScript, C, SQL  
+- 🌐 Web: HTML, CSS, Bootstrap, Next.js  
+- 🛠️ Tools: Git, GitHub, VS Code  
 
-Here are some ideas to get you started:
+## 📂 Projects  
+- 📅 [Personal Website](https://samuel-desta.github.io/personal-website/)  
+- 🏢 [Apartment Database System](https://github.com/samuel-desta/apartment-db)  
+- 📊 [Data Science at Duolingo (Sample Project)](https://github.com/samuel-desta/duolingo-data)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me  
+📧 Email: [destasw@vcu.edu](mailto:destasw@vcu.edu)  
+💼 LinkedIn: [linkedin.com/in/samuel-desta](https://linkedin.com/in/samuel-desta)  
+🐙 GitHub: [github.com/destasw](https://github.com/destasw)  
